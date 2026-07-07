@@ -1,4 +1,4 @@
-# Computer Vision Assignment 1
+# Image Processing algorithms from scratch using Python, NumPy, and OpenCV.
 
 A comprehensive implementation of fundamental Computer Vision and Image Processing algorithms from scratch using Python, NumPy, and OpenCV.
 
